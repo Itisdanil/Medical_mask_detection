@@ -1,4 +1,4 @@
-# Overviev
+# Overview
 In 2020 a coronavirus infection spread in the world which forced all of humanity to change their daily lives. Millions of people began to walk the streets in medical masks and many researchers began to try to solve the problem of detecting medical masks on people's faces. In my project I tried to solve such a problem on a small dataset using the Faster R-CNN model.
 
 # Usage
