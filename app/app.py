@@ -43,7 +43,7 @@ elif opt == 'Upload image via link':
 try:
     if st.button('Predict'):
         model = model_detection(4)
-        model.load_state_dict(torch.load('../weights/model.pt', map_location=torch.device('cpu')))
+        model.load_state_dict(torch.load('weights/model.pt', map_location=torch.device('cpu')))
         model.eval()
 
         prediction = model([image[0]])  
