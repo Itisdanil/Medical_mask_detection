@@ -25,3 +25,4 @@ streamlit run app/app.py
 
 # Interface
 ![alt text](https://github.com/Itisdanil/Medical_masks_detection/blob/dev/data/test_images/readme_1.png)
+![alt text](https://github.com/Itisdanil/Medical_masks_detection/blob/dev/data/test_images/readme_2.png)
